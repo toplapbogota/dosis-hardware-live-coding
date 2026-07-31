@@ -13,3 +13,5 @@ cinemateca de bogotá dosis hardware hacking live coding
 |![](./hardware/dc_motor_driver.webp)|![](./hardware/dc_motor_driver_template.webp)|![](./hardware/exported_svgs/dc_motor_driver.webp)|
 |![](./hardware/relay_module_x_2.webp)|![](./hardware/relay_module_x_2_template.webp)|![](./hardware/exported_svgs/relay_module_x_2.webp)|
 |![](./hardware/arduino_nano.webp)|![](./hardware/arduino_nano_template.webp)|![](./hardware/exported_svgs/arduino_nano.webp)|
+|![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_7.webp)|
+|![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_6.webp)|
