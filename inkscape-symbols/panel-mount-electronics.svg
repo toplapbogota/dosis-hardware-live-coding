@@ -1670,6 +1670,17 @@
          style="stroke-width:0.9375;fill:#000000;fill-opacity:1"
          x="62.481373"
          y="426.00934">DC motor big</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="601.14655"
+       y="554.75885"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.9375"
+         x="601.14655"
+         y="554.75885">Servo Motor</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
