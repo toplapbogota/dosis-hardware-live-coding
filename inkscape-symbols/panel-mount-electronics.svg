@@ -1237,6 +1237,7 @@
     </symbol>
     <symbol
        id="gear-box-dc-motor-yellow">
+      <title id="title1">Yellow Gear Box DC Motor</title>
       <path
          style="vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.937499;stroke-miterlimit:3.9;stroke-dasharray:none;-inkscape-stroke:hairline"
          d="m 297.44577,859.6875 v 93.79258"
