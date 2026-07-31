@@ -1704,6 +1704,8 @@
     <symbol
        id="arduino-nano"
        style="fill:none;stroke:#ff0000">
+      <title
+         id="arduino-nano-title">Arduino Nano</title>
       <g
          id="arduino-nano_transform"
          transform="matrix(0,3.5433069,-3.5433069,0,1076.5982,-178.99758)">
@@ -2097,7 +2099,7 @@
          style="font-size:17.5px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
          x="888.72498"
          y="525.17493"
-         id="tspan8">arduino_nano</tspan></text>
+         id="tspan8">arduino nano</tspan></text>
     <use
        xlink:href="#relay_module_x_2"
        id="use7" />
