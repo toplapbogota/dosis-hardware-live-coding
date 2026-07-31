@@ -1701,6 +1701,97 @@
         </g>
       </g>
     </symbol>
+    <symbol
+       id="arduino-nano"
+       style="fill:none;stroke:#ff0000">
+      <g
+         id="arduino-nano_transform"
+         transform="matrix(0,3.5433069,-3.5433069,0,1076.5982,-178.99758)">
+        <g
+           id="use70"
+           style="fill:none;stroke:#ff0000"
+           transform="translate(43.41363,-140.20131)">
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+             id="circle1"
+             cx="176.66209"
+             cy="215.99635"
+             r="0.89999998" />
+        </g>
+        <g
+           id="use71"
+           style="fill:none;stroke:#ff0000"
+           transform="translate(43.41363,-180.84131)">
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+             id="circle2-6"
+             cx="176.66209"
+             cy="215.99635"
+             r="0.89999998" />
+        </g>
+        <g
+           id="use72"
+           style="fill:none;stroke:#ff0000"
+           transform="translate(28.173631,-140.20131)">
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+             id="circle3-7"
+             cx="176.66209"
+             cy="215.99635"
+             r="0.89999998" />
+        </g>
+        <g
+           id="use73"
+           style="fill:none;stroke:#ff0000"
+           transform="translate(28.173631,-180.84131)">
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+             id="circle4-5"
+             cx="176.66209"
+             cy="215.99635"
+             r="0.89999998" />
+        </g>
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.141523;-inkscape-stroke:hairline"
+           d="m 217.17573,35.155042 v -2.88412 h -10.94 v 2.88412"
+           id="path73-3" />
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+           d="m 206.73573,75.795042 v 2.40362 h 10.44 v -2.40367"
+           id="path74-5"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+           d="m 204.83573,74.395042 h -3.00684 v -37.84 h 3.00684"
+           id="path75-6"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+           d="m 220.07573,74.395042 h 3.00684 v -37.84 h -3.00684"
+           id="path76"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+           d="m 217.17573,75.795042 v -1.4 h 2.9"
+           id="path77"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+           d="m 204.83573,74.395042 h 1.9 v 1.4"
+           id="path78"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+           d="m 206.23573,35.155042 v 1.4 h -1.4"
+           id="path79"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+           d="m 217.17573,35.155042 v 1.4 h 2.9"
+           id="path80"
+           sodipodi:nodetypes="ccc" />
+      </g>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1996,6 +2087,17 @@
          style="font-size:17.5px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
          x="927.80829"
          y="328.72034">dc motor driver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.5px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="888.72498"
+       y="525.17493"
+       id="text6-9"><tspan
+         sodipodi:role="line"
+         style="font-size:17.5px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         x="888.72498"
+         y="525.17493"
+         id="tspan8">arduino_nano</tspan></text>
     <use
        xlink:href="#relay_module_x_2"
        id="use7" />
@@ -2003,6 +2105,9 @@
        xlink:href="#dc-motor-driver"
        id="use3"
        transform="translate(450.18843,121.91229)" />
+    <use
+       xlink:href="#arduino-nano"
+       id="use9" />
   </g>
   <g
      inkscape:groupmode="layer"
