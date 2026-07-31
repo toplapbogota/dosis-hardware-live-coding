@@ -1746,6 +1746,17 @@
     <use
        xlink:href="#arduino-uno"
        id="use2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="521.26379"
+       y="1001.3267"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.9375"
+         x="521.26379"
+         y="1001.3267">Arduino uno</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
