@@ -1794,6 +1794,280 @@
            sodipodi:nodetypes="ccc" />
       </g>
     </symbol>
+    <symbol
+       id="servo-horn-6-7">
+      <title
+         id="servo-horn-6-7-title">Servo Horn 6/7</title>
+      <g
+         id="servo-horn-6-7_transform"
+         transform="matrix(3.5433069,0,0,3.5433069,117.03499,-719.99996)">
+        <g
+           id="g23">
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle9"
+             cx="410.061"
+             cy="-202.80933"
+             r="1"
+             transform="rotate(90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle10"
+             cx="414.561"
+             cy="-202.80933"
+             r="0.5"
+             transform="rotate(90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle11"
+             cx="416.561"
+             cy="-202.80933"
+             r="0.5"
+             transform="rotate(90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle12"
+             cx="418.561"
+             cy="-202.80933"
+             r="0.5"
+             transform="rotate(90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle13"
+             cx="420.561"
+             cy="-202.80933"
+             r="0.5"
+             transform="rotate(90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle14"
+             cx="422.561"
+             cy="-202.80933"
+             r="0.5"
+             transform="rotate(90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle15"
+             cx="424.561"
+             cy="-202.80933"
+             r="0.5"
+             transform="rotate(90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle16"
+             cx="-404.561"
+             cy="202.80933"
+             r="0.5"
+             transform="rotate(-90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle17"
+             cx="-402.561"
+             cy="202.80933"
+             r="0.5"
+             transform="rotate(-90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle18"
+             cx="-400.561"
+             cy="202.80933"
+             r="0.5"
+             transform="rotate(-90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle19"
+             cx="-398.561"
+             cy="202.80933"
+             r="0.5"
+             transform="rotate(-90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle20"
+             cx="-396.561"
+             cy="202.80933"
+             r="0.5"
+             transform="rotate(-90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle21"
+             cx="-394.561"
+             cy="202.80933"
+             r="0.5"
+             transform="rotate(-90)" />
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle22"
+             cx="-392.561"
+             cy="202.80933"
+             r="0.5"
+             transform="rotate(-90)" />
+          <path
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             d="m 202.80931,409.66662 v 0.78875"
+             id="path22" />
+          <path
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             d="m 202.48385,410.06098 h 0.65093"
+             id="path23" />
+        </g>
+        <g
+           inkscape:label="Hershey Text"
+           style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+           id="g25"
+           transform="matrix(0.59873695,0,0,0.59873695,73.820264,153.59991)">
+          <g
+             transform="translate(209.97,394.061)"
+             id="g24"
+             style="stroke:#0000ff">
+            <path
+               d="M 630,662 315,0 M 189,662 h 441"
+               style="stroke:#0000ff;stroke-width:0.323in"
+               transform="scale(0.00846667,-0.00846667)"
+               id="path24" />
+          </g>
+        </g>
+        <path
+           d="m 201.48242,428.94969 -0.15715,-0.31937 -0.48159,-0.16221 h -0.31429 l -0.48159,0.16221 -0.31936,0.47652 -0.16222,0.80095 v 0.80095 l 0.16222,0.6362 0.31936,0.31937 0.48159,0.15968 h 0.15715 l 0.48158,-0.15968 0.3143,-0.31937 0.16222,-0.47905 v -0.15715 l -0.16222,-0.48158 -0.3143,-0.31937 -0.48158,-0.16222 h -0.15715 l -0.48159,0.16222 -0.31936,0.31937 -0.16222,0.48158"
+           style="fill:none;stroke:#0000ff;stroke-width:0.00163739in;stroke-linecap:round;stroke-linejoin:round"
+           id="path25" />
+      </g>
+    </symbol>
+    <symbol
+       id="servo-horn-6-6">
+      <title
+         id="servo-horn-6-6-title">Servo Horn 6/6</title>
+      <g
+         id="servo-horn-6-6_transform"
+         transform="matrix(3.5433069,0,0,3.5433069,60.937496,-1060.3124)">
+        <g
+           id="g58"
+           transform="rotate(-90,372.70563,132.75538)">
+          <circle
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+             id="circle26"
+             cx="1.25"
+             cy="0"
+             r="1.25" />
+          <g
+             id="g36"
+             style="stroke:#ff0000">
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle31"
+               cx="5.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle32"
+               cx="7.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle33"
+               cx="9.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle34"
+               cx="11.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle35"
+               cx="13.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle36"
+               cx="15.5"
+               cy="0"
+               r="0.5" />
+          </g>
+          <g
+             id="g42"
+             transform="translate(-19)"
+             style="stroke:#ff0000">
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle37"
+               cx="5.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle38"
+               cx="7.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle39"
+               cx="9.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle40"
+               cx="11.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle41"
+               cx="13.5"
+               cy="0"
+               r="0.5" />
+            <circle
+               style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+               id="circle42"
+               cx="15.5"
+               cy="0"
+               r="0.5" />
+          </g>
+          <path
+             style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:0.8;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             d="m 1.25,-0.325465 v 0.65093"
+             id="path58" />
+        </g>
+        <g
+           inkscape:label="Hershey Text"
+           style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+           id="g60"
+           transform="matrix(0.59873695,0,0,0.59873695,111.27008,247.59547)">
+          <g
+             transform="translate(216.768,405.749)"
+             id="g59"
+             style="stroke:#0000ff">
+            <path
+               d="m 598,567 -31,63 -95,32 H 410 L 315,630 252,536 220,378 V 220 L 252,94.5 315,31.5 410,0 h 31 l 95,31.5 62,63 32,94.5 v 31 l -32,95 -62,63 -95,32 h -31 l -95,-32 -63,-63 -32,-95"
+               style="stroke:#0000ff;stroke-width:0.323in"
+               transform="scale(0.00846667,-0.00846667)"
+               id="path59" />
+          </g>
+        </g>
+        <g
+           inkscape:label="Hershey Text"
+           style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round"
+           id="g62"
+           transform="matrix(0.59873695,0,0,0.59873695,111.0055,278.55172)">
+          <g
+             transform="translate(216.768,405.749)"
+             id="g61"
+             style="stroke:#0000ff">
+            <path
+               d="m 598,567 -31,63 -95,32 H 410 L 315,630 252,536 220,378 V 220 L 252,94.5 315,31.5 410,0 h 31 l 95,31.5 62,63 32,94.5 v 31 l -32,95 -62,63 -95,32 h -31 l -95,-32 -63,-63 -32,-95"
+               style="stroke:#0000ff;stroke-width:0.323in"
+               transform="scale(0.00846667,-0.00846667)"
+               id="path60" />
+          </g>
+        </g>
+      </g>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2110,6 +2384,40 @@
     <use
        xlink:href="#arduino-nano"
        id="use9" />
+    <use
+       xlink:href="#servo-horn-6-7"
+       id="use63"
+       inkscape:export-filename="../hardware/exported_svgs/servo_horn_6_7.webp"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <use
+       xlink:href="#servo-horn-6-6"
+       id="use64"
+       inkscape:export-filename="../hardware/exported_svgs/servo_horn_6_6.webp"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.5px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="844.91852"
+       y="844.75616"
+       id="text64"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.9375"
+         x="844.91852"
+         y="844.75616"
+         id="tspan65">servo horn 6 7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.5px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="919.91852"
+       y="657.25616"
+       id="text66"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.9375"
+         x="919.91852"
+         y="657.25616"
+         id="tspan67">servo horn 6 6</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
