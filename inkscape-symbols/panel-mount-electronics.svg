@@ -992,9 +992,9 @@
          id="path3029" />
     </symbol>
     <symbol
-       id="dc-motor-9v">
+       id="dc-motor-big">
       <title
-         id="title3032">DC motor small</title>
+         id="title3032">DC motor big</title>
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="M 86.423828 337.53906 A 43.051178 43.051178 0 0 0 71.615234 369.96094 A 43.051178 43.051178 0 0 0 86.388672 402.38281 L 142.9082 402.38281 A 43.051178 43.051178 0 0 0 157.7168 369.96094 A 43.051178 43.051178 0 0 0 142.94336 337.53906 L 86.423828 337.53906 z "
@@ -1474,7 +1474,7 @@
        id="use10159"
        style="stroke:none;fill:none" />
     <use
-       xlink:href="#dc-motor-9v"
+       xlink:href="#dc-motor-big"
        id="use10471" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1655,8 +1655,19 @@
            id="tspan2"
            style="stroke-width:0.9375"
            x="165.98253"
-           y="670.25476">stepper_motor_28bjy48</tspan></text>
+           y="670.25476">stepper motor 28bjy48</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="62.481373"
+       y="426.00934"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.9375;fill:#000000;fill-opacity:1"
+         x="62.481373"
+         y="426.00934">DC motor big</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
