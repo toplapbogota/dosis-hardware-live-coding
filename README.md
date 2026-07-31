@@ -15,3 +15,4 @@ cinemateca de bogotá dosis hardware hacking live coding
 |![](./hardware/arduino_nano.webp)|![](./hardware/arduino_nano_template.webp)|![](./hardware/exported_svgs/arduino_nano.webp)|
 |![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_7.webp)|
 |![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_6.webp)|
+|![](./hardware/metal_angle_L_shape_1_2.webp)|![](./hardware/metal_angle_L_shape_1_2_template.webp)|![](./hardware/exported_svgs/metal_angle_L_shape_1_2.webp)|
