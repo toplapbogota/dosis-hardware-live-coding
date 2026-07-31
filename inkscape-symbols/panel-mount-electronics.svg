@@ -1740,6 +1740,12 @@
          style="stroke-width:0.9375"
          x="601.14655"
          y="554.75885">Servo Motor</tspan></text>
+    <g
+       id="use5"
+       transform="matrix(3.5433071,0,0,3.5433071,590.625,708.75)" />
+    <use
+       xlink:href="#arduino-uno"
+       id="use2" />
   </g>
   <g
      inkscape:groupmode="layer"
