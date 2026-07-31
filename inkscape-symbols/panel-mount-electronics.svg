@@ -1485,6 +1485,140 @@
       </g>
     </symbol>
     <symbol
+       id="relay_module_x_2"
+       style="display:inline;stroke-width:0.264583;stroke-dasharray:none">
+      <title
+         id="relay_module_x_2-title">Relay Module x 2</title>
+      <g
+         id="relay_module_x_2_transform"
+         transform="matrix(3.5433071,0,0,3.5433071,533.26329,-55.628138)"
+         inkscape:export-filename="../hardware/exported_svgs/relay_module_x_2.webp"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+           d="m 107.23871,45.311773 v 50"
+           id="path69"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+           d="m 77.73871,70.311774 h 29.5"
+           id="path74" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+           d="m 77.73871,45.311773 v 50"
+           id="path75"
+           sodipodi:nodetypes="cc" />
+        <g
+           id="g77-6"
+           style="stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none">
+          <circle
+             style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="path73"
+             cx="108.73871"
+             cy="92.561775"
+             r="1.5" />
+          <circle
+             style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="circle73"
+             cx="76.238708"
+             cy="92.561775"
+             r="1.5" />
+          <circle
+             style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="circle76-0"
+             cx="76.238708"
+             cy="48.061771"
+             r="1.5" />
+          <circle
+             style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="circle77-0"
+             cx="108.73871"
+             cy="48.061771"
+             r="1.5" />
+          <circle
+             style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="circle84"
+             cx="108.73871"
+             cy="48.061771"
+             r="1" />
+          <circle
+             style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="circle85"
+             cx="108.73871"
+             cy="92.561775"
+             r="1" />
+          <circle
+             style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="circle86"
+             cx="76.238708"
+             cy="48.061771"
+             r="1" />
+          <circle
+             style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+             id="circle87"
+             cx="76.238708"
+             cy="92.561775"
+             r="1" />
+        </g>
+        <rect
+           style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+           id="rect77"
+           width="38"
+           height="50"
+           x="73.488708"
+           y="45.311775" />
+        <g
+           inkscape:label="Hershey Text"
+           style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="g83">
+          <g
+             transform="translate(87.5429,61.2996)"
+             id="g82"
+             style="stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none">
+            <path
+               d="M 220,662 V 0 m 0,662 h 284 l 94,-32 32,-32 32,-62 V 472 L 630,410 598,378 504,346 H 220 M 441,346 662,0"
+               style="stroke:#0000ff;stroke-width:83.3333;stroke-dasharray:none"
+               transform="scale(0.003175,-0.003175)"
+               id="path77-2" />
+            <path
+               d="M 220,662 V 0 m 0,662 H 630 M 220,346 H 472 M 220,0 h 410"
+               style="stroke:#0000ff;stroke-width:83.3333;stroke-dasharray:none"
+               transform="matrix(0.003175,0,0,-0.003175,2.10185,0)"
+               id="path78-3" />
+            <path
+               d="M 220,662 V 0 m 0,0 h 378"
+               style="stroke:#0000ff;stroke-width:83.3333;stroke-dasharray:none"
+               transform="matrix(0.003175,0,0,-0.003175,4.0005,0)"
+               id="path79-0" />
+            <path
+               d="M 378,662 126,0 M 378,662 630,0 M 220,220 h 316"
+               style="stroke:#0000ff;stroke-width:83.3333;stroke-dasharray:none"
+               transform="matrix(0.003175,0,0,-0.003175,5.7023,0)"
+               id="path80-5" />
+            <path
+               d="M 126,662 378,346 V 0 M 630,662 378,346"
+               style="stroke:#0000ff;stroke-width:83.3333;stroke-dasharray:none"
+               transform="matrix(0.003175,0,0,-0.003175,7.50252,0)"
+               id="path81-0" />
+            <path
+               d="m 630,567 -63,63 -95,32 H 346 l -94,-32 -63,-63 v -63 l 31,-63 32,-31 63,-32 189,-63 63,-31 31,-32 32,-63 V 94.5 L 567,31.5 472,0 H 346 l -94,31.5 -63,63"
+               style="stroke:#0000ff;stroke-width:83.3333;stroke-dasharray:none"
+               transform="matrix(0.003175,0,0,-0.003175,9.30275,0)"
+               id="path82-5" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+           d="M 73.488708,49.561773 H 111.48871"
+           id="path70" />
+        <path
+           style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-miterlimit:3.9;stroke-dasharray:none"
+           d="M 73.488708,91.061773 H 111.48871"
+           id="path71" />
+      </g>
+    </symbol>
+    <symbol
        id="dc-motor-driver">
       <title
          id="dc-motor-driver-title">DC Motor Driver</title>
@@ -1843,6 +1977,17 @@
     <text
        xml:space="preserve"
        style="font-size:17.5px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="787.10229"
+       y="75.504997"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-size:17.5px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         x="787.10229"
+         y="75.504997">relay module x 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.5px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
        x="477.61987"
        y="206.80804"
        id="text6"><tspan
@@ -1851,6 +1996,9 @@
          style="font-size:17.5px;fill:#000000;stroke:none;stroke-width:0.9375;fill-opacity:1"
          x="477.61987"
          y="206.80804">dc motor driver</tspan></text>
+    <use
+       xlink:href="#relay_module_x_2"
+       id="use7" />
     <use
        xlink:href="#dc-motor-driver"
        id="use3" />
