@@ -1,5 +1,5 @@
-# cinemateca-dosis-hardware-hacking-live-coding
-cinemateca de bogotá dosis hardware hacking live coding
+# dosis-hardware-live-coding
+dosis hardware live coding
 
 ## Reference
 
