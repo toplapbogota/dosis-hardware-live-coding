@@ -53,3 +53,6 @@ You can check which the inkscape symbols folder is by opening **inkscape** and a
 So if you cloned the repository, just move the file to the user symbols folder. If you downloaded the zip, unzip it and move the file to the user symbols folder.
 
 [version en español de las instrucciones](./README.es.md)
+
+## Note 
+Installation instructions are important because every time we update the main file we will need to move it to the inkscape user symbols folder.

@@ -34,3 +34,6 @@ La ruta de la carpeta de símbolos aparece bajo **User symbols** y hay un botón
 Si clonaste el repositorio, simplemente mueve el archivo a la carpeta de símbolos de usuario.
 
 Si descargaste el archivo ZIP, descomprímelo y mueve el archivo a la carpeta de símbolos de usuario.
+
+## Nota
+Las instrucciones de instalación son importantes porque cada vez que actualicemos el archivo principal, necesitaremos moverlo a la carpeta de símbolos de usuario de Inkscape.
