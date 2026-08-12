@@ -1,5 +1,5 @@
 # dosis-hardware-live-coding
-dosis hardware live coding
+A symbol library for Inkscape with footprint of different hardware for laser cutting and hadware prototyping. 
 
 ## Reference
 
@@ -16,3 +16,40 @@ dosis hardware live coding
 |![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_7.webp)|Servo Horn 6/7|
 |![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_6.webp)|Servo Horn 6/6|
 |![](./hardware/metal_angle_L_shape_1_2.webp)|![](./hardware/metal_angle_L_shape_1_2_template.webp)|![](./hardware/exported_svgs/metal_angle_L_shape_1_2.webp)|Metal L 1/2 "|
+
+# Installation
+
+Download the code: it can be either done by cloning the repository or downloading the zip file.
+
+##download 
+
+In order to download the inkscape symbols, you can either clone the repository or download the zip file.
+
+### clone
+
+```bash
+git clone https://github.com/dosis-hardware/dosis-hardware-live-coding.git
+``` 
+### download zip
+
+Do click on the green button labeled with the word code.
+
+![alt text](./assets/code-button.png)
+
+This opens a drop down menu in which you may click the **download zip** item
+
+![alt text](./assets/download-zip.png)
+
+## move the main file
+
+The main file is [panel-mount-electronics.svg](./inkscape-symbols/panel-mount-electronics.svg) and it should be moved to the inkscape user symbols folder. 
+
+You can check which the inkscape symbols folder is by opening **inkscape** and at the application menus:
+- on windows and linux go to Edit > Preferences > System.
+- on macos go to Inkscape > Preferences > System
+
+ The path to the symbols folder is listed under **User symbols** and there is a button to open it.
+
+So if you cloned the repository, just move the file to the user symbols folder. If you downloaded the zip, unzip it and move the file to the user symbols folder.
+
+[version en español de las instrucciones](./README.es.md)
