@@ -2321,7 +2321,6 @@
          x="166.875"
          y="966.78003">Yellow Gear Box DC Motor</tspan></text>
     <text
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
        x="62.481373"
@@ -2448,6 +2447,20 @@
          style="stroke-width:0.9375"
          x="319.97644"
          y="483.21381">metal angle L shape 1/2&quot;</tspan></text>
+    <use
+       xlink:href="#stepper-motor-28bjy48"
+       id="use4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+       x="868.31586"
+       y="1032.2561"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.9375"
+         x="868.31586"
+         y="1032.2561">stepper motor 28bjy48</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
