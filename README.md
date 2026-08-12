@@ -7,7 +7,7 @@ A symbol library for Inkscape with footprint of different hardware for laser cut
 |--|--|--|--|
 |![](./hardware/gear_box_dc_motor_yellow.webp)|![](./hardware/gear_box_dc_motor_yellow_template.webp)|![](./hardware/exported_svgs/gear_box_dc_motor_yellow.webp)|Yellow Gear Box DC Motor|
 |![](./hardware/stepper_motor_28bjy48.webp)|![](./hardware/stepper_motor_28bjy48_template.webp)|![](./hardware/exported_svgs/stepper_motor_28bjy48.webp)|28BYJ-48 Stepper Motor|
-|![](./hardware/dc_motor_big.webp)|![]()|![](./hardware/exported_svgs/dc_motor_big.webp)|DC Motor Big|
+|![](./hardware/dc_motor_big.webp)|![](./hardware/dc_motor_big_template.webp)|![](./hardware/exported_svgs/dc_motor_big.webp)|DC Motor Big|
 |![](./hardware/servo_motor.webp)|![](./hardware/servo_motor_template.webp)|![](./hardware/exported_svgs/servo_motor.webp)|Servo Motor|
 |![](./hardware/arduino_uno.webp)|![](./hardware/arduino_uno_template.webp)|![](./hardware/exported_svgs/arduino_uno.webp)|Arduino Uno|
 |![](./hardware/dc_motor_driver.webp)|![](./hardware/dc_motor_driver_template.webp)|![](./hardware/exported_svgs/dc_motor_driver.webp)|DC Motor Driver|
