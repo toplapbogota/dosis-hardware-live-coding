@@ -2123,6 +2123,21 @@
            id="title11">gear box dc motor yellow shaft</title>
       </g>
     </symbol>
+    <symbol
+       id="stepper-motor-28bjy48-shaft">
+      <title
+         id="stepper-motor-28bjy48-shaft-title">stepper motor 28bjy48 shaft</title>
+      <g
+         id="use2-6_transform"
+         transform="matrix(3.5433069,0,0,3.5433069,195.53638,737.081)">
+        <title
+           id="title2">28-bjy48 stepper motor shaft</title>
+        <path
+           id="path18"
+           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           d="m 133.16968,72.702266 a 2.5000001,2.5000001 0 0 0 -0.50023,1.49965 2.5000001,2.5000001 0 0 0 0.50023,1.500167 h 3.99975 a 2.5000001,2.5000001 0 0 0 0.50023,-1.500167 2.5000001,2.5000001 0 0 0 -0.50023,-1.49965 z" />
+      </g>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2132,10 +2147,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49514758"
-     inkscape:cx="292.84199"
+     inkscape:cx="615.97797"
      inkscape:cy="825.00656"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g11"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="699"
@@ -2156,7 +2171,8 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:export-bgcolor="#ffffffff" />
   <metadata
      id="metadata4154">
     <rdf:RDF>
@@ -2491,7 +2507,27 @@
            y="1040.7999">Yellow Gear Box DC Motor shaft</tspan></text>
       <use
          xlink:href="#gear-box-dc-motor-yellow-shaft"
-         id="use6" />
+         id="use6"
+         inkscape:export-filename="../hardware/exported_svgs/gear_box_dc_motor_yellow_shaft.webp"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <g
+       id="g11">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+         x="582.00787"
+         y="1029.705"
+         id="text2-8"><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.9375"
+           x="582.00787"
+           y="1029.705"
+           id="tspan10">stepper motor 28bjy48 shaft</tspan></text>
+      <use
+         xlink:href="#stepper-motor-28bjy48-shaft"
+         id="use11" />
     </g>
   </g>
   <g
