@@ -2138,6 +2138,41 @@
            d="m 133.16968,72.702266 a 2.5000001,2.5000001 0 0 0 -0.50023,1.49965 2.5000001,2.5000001 0 0 0 0.50023,1.500167 h 3.99975 a 2.5000001,2.5000001 0 0 0 0.50023,-1.500167 2.5000001,2.5000001 0 0 0 -0.50023,-1.49965 z" />
       </g>
     </symbol>
+    <symbol
+       id="rack-pinion-extreme">
+      <title
+         id="rack-pinion-extreme-title">rack pinion extreme
+      </title>
+      <g
+         id="rack-pinion-extreme_transform"
+         transform="matrix(3.5433069,0,0,3.5433069,-1764.7211,-78.861555)">
+        <path
+           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           d="m 765.27269,275.19815 0.01,14.43384 h 4.48998 v -5.95339 h 1.35001 l -0.80002,-2.5 h 4.90003 l -0.80002,2.5 h 1.35004 v 5.95339 h 4.49998 v -14.43384 z"
+           id="path133-7"
+           sodipodi:nodetypes="ccccccccccccc" />
+        <circle
+           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="path134"
+           cx="767.52765"
+           cy="287.01724"
+           r="1.5" />
+        <path
+           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           d="m 765.28268,289.63199 h 4.48997"
+           id="path135" />
+        <path
+           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           d="m 775.77269,289.63199 h 4.49998"
+           id="path136" />
+        <circle
+           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+           id="circle192"
+           cx="778.11102"
+           cy="287.01724"
+           r="1.5" />
+      </g>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2528,6 +2563,23 @@
       <use
          xlink:href="#stepper-motor-28bjy48-shaft"
          id="use11" />
+    </g>
+    <g
+       id="g12">
+      <text
+         xml:space="preserve"
+         style="font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';writing-mode:lr-tb;direction:ltr;opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+         x="931.81744"
+         y="971.31256"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           style="stroke-width:0.9375;stroke:none"
+           x="931.81744"
+           y="971.31256">rack pinion extreme</tspan></text>
+      <use
+         xlink:href="#rack-pinion-extreme"
+         id="use12" />
     </g>
   </g>
   <g

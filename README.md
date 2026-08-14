@@ -18,12 +18,13 @@ A symbol library for Inkscape with footprint of different hardware for laser cut
 |![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_7.webp)|Servo Horn 6/7|
 |![](./hardware/servo_horn_7_6.webp)|![](./hardware/servo_horn_7_6_template.webp)|![](./hardware/exported_svgs/servo_horn_6_6.webp)|Servo Horn 6/6|
 |![](./hardware/metal_angle_L_shape_1_2.webp)|![](./hardware/metal_angle_L_shape_1_2_template.webp)|![](./hardware/exported_svgs/metal_angle_L_shape_1_2.webp)|Metal L 1/2 "|
+|![](./hardware/rack_pinion_extreme.webp)|![](./hardware/rack_pinion_extreme_template.webp)|![](./hardware/exported_svgs/rack_pinion_extreme.webp)|Rack Pinion Extreme|
 
 # Installation
 
 Download the code: it can be either done by cloning the repository or downloading the zip file.
 
-##download 
+## download 
 
 In order to download the inkscape symbols, you can either clone the repository or download the zip file.
 
