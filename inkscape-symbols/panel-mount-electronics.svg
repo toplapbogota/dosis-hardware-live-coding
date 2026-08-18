@@ -2545,23 +2545,25 @@
        id="use63"
        inkscape:export-filename="../hardware/exported_svgs/servo_horn_6_7.webp"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       transform="translate(130.59573,24.830103)" />
     <use
        xlink:href="#servo-horn-6-6"
        id="use64"
        inkscape:export-filename="../hardware/exported_svgs/servo_horn_6_6.webp"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-ydpi="96"
+       transform="translate(111.01654,12.049363)" />
     <text
        xml:space="preserve"
        style="font-size:17.5px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.9375;-inkscape-stroke:hairline"
-       x="844.91852"
-       y="844.75616"
+       x="910.73615"
+       y="863.97852"
        id="text64"><tspan
          sodipodi:role="line"
          style="stroke-width:0.9375"
-         x="844.91852"
-         y="844.75616"
+         x="910.73615"
+         y="863.97852"
          id="tspan65">servo horn 6 7</tspan></text>
     <text
        xml:space="preserve"
@@ -2587,7 +2589,8 @@
          y="483.21381">metal angle L shape 1/2&quot;</tspan></text>
     <use
        xlink:href="#stepper-motor-28bjy48"
-       id="use4" />
+       id="use4"
+       transform="translate(131.24999)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
