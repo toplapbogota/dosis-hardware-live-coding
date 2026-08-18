@@ -2141,36 +2141,108 @@
     <symbol
        id="rack-pinion-extreme">
       <title
-         id="rack-pinion-extreme-title">rack pinion extreme
-      </title>
+         id="rack-pinion-extreme-title">rack pinion extreme</title>
       <g
-         id="rack-pinion-extreme_transform"
-         transform="matrix(3.5433069,0,0,3.5433069,-1764.7211,-78.861555)">
+         id="g66">
+        <g
+           id="g45"
+           transform="matrix(3.5433069,0,0,3.5433069,-1731.6394,-65.342895)"
+           style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
+          <g
+             id="g26"
+             transform="translate(-26.307101,-2.4680663)"
+             style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
+            <circle
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+               id="circle23"
+               cx="-289.40839"
+               cy="826.03534"
+               r="2.5999999"
+               transform="rotate(-90)" />
+            <circle
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+               id="circle24"
+               cx="-289.40839"
+               cy="826.03534"
+               r="1.5"
+               transform="rotate(-90)" />
+          </g>
+          <g
+             id="g44"
+             transform="translate(-37.901244,-2.4680663)"
+             style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
+            <circle
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+               id="circle43"
+               cx="-289.40839"
+               cy="826.03534"
+               r="2.5999999"
+               transform="rotate(-90)" />
+            <circle
+               style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+               id="circle44"
+               cx="-289.40839"
+               cy="826.03534"
+               r="1.5"
+               transform="rotate(-90)" />
+          </g>
+        </g>
         <path
-           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-           d="m 765.27269,275.19815 0.01,14.43384 h 4.48998 v -5.95339 h 1.35001 l -0.80002,-2.5 h 4.90003 l -0.80002,2.5 h 1.35004 v 5.95339 h 4.49998 v -14.43384 z"
-           id="path133-7"
-           sodipodi:nodetypes="ccccccccccccc" />
-        <circle
-           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-           id="path134"
-           cx="767.52765"
-           cy="287.01724"
-           r="1.5" />
+           style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.937499;stroke-dasharray:none;-inkscape-stroke:hairline"
+           d="m 1037.2109,892.49995 h 88.5827 v 87.1622 h -33.6613 v -39.8447 h -21.2599 v 39.8447 h -33.6615 z"
+           id="path4"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <path
+         style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.937499;stroke-dasharray:none;-inkscape-stroke:hairline"
+         d="m 890.63226,939.81745 -20.7106,0.12933 0.0177,39.71536 h -17.75197 v -87.16219 h 88.58267 v 87.16219 H 923.05351 V 939.81759 H 902.3251 l 2.83471,-9.21264 h -17.3622 z"
+         id="path61"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <g
+         id="g65">
+        <g
+           id="g315"
+           transform="matrix(3.5433069,0,0,3.5433069,-1917.3653,-74.088011)"
+           style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
+          <circle
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle314"
+             cx="-289.40839"
+             cy="826.03534"
+             r="2.5999999"
+             transform="rotate(-90)" />
+          <circle
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle315"
+             cx="-289.40839"
+             cy="826.03534"
+             r="1.5"
+             transform="rotate(-90)" />
+        </g>
+        <g
+           id="g317"
+           transform="matrix(3.5433069,0,0,3.5433069,-1958.4469,-74.088011)"
+           style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
+          <circle
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle316"
+             cx="-289.40839"
+             cy="826.03534"
+             r="2.5999999"
+             transform="rotate(-90)" />
+          <circle
+             style="opacity:1;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+             id="circle317"
+             cx="-289.40839"
+             cy="826.03534"
+             r="1.5"
+             transform="rotate(-90)" />
+        </g>
         <path
-           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-           d="m 765.28268,289.63199 h 4.48997"
-           id="path135" />
-        <path
-           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-           d="m 775.77269,289.63199 h 4.49998"
-           id="path136" />
-        <circle
-           style="opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-           id="circle192"
-           cx="778.11102"
-           cy="287.01724"
-           r="1.5" />
+           style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.937499;stroke-dasharray:none;-inkscape-stroke:hairline"
+           d="m 944.69923,892.49995 h 88.58267 v 87.16219 h -33.66131 v -39.84469 h -21.25995 v 39.84469 h -33.66141 z"
+           id="path63"
+           sodipodi:nodetypes="ccccccccc" />
       </g>
     </symbol>
   </defs>
@@ -2565,21 +2637,22 @@
          id="use11" />
     </g>
     <g
-       id="g12">
+       id="g567788"
+       transform="translate(-218.41317,-267.92252)">
       <text
          xml:space="preserve"
-         style="font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';writing-mode:lr-tb;direction:ltr;opacity:0.53;vector-effect:non-scaling-stroke;fill:none;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
+         style="font-size:12.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';writing-mode:lr-tb;direction:ltr;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.9375;-inkscape-stroke:hairline"
          x="931.81744"
-         y="971.31256"
+         y="995.68756"
          id="text11"><tspan
            sodipodi:role="line"
            id="tspan11"
-           style="stroke-width:0.9375;stroke:none"
+           style="fill:#000000;stroke:none;stroke-width:0.9375"
            x="931.81744"
-           y="971.31256">rack pinion extreme</tspan></text>
+           y="995.68756">rack pinion extreme</tspan></text>
       <use
          xlink:href="#rack-pinion-extreme"
-         id="use12" />
+         id="use67" />
     </g>
   </g>
   <g
